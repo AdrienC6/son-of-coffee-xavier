@@ -151,5 +151,9 @@
     "languages": "js",
     "type": "library",
     "version": "0.51.1"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^2.2.0",
+    "@supabase/supabase-js": "^2.50.2"
   }
 }
